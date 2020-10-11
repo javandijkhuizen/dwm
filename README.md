@@ -10,5 +10,6 @@ in use and the task performed.
 - Pertag
 - Stacker
 - Statuscmd
+- Vanitygaps
 
 Each of the patches are branches of the master dwm
